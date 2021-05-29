@@ -1,0 +1,5 @@
+github_token          = "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"
+github_owner          = "shivaramane"
+tfe_token             = "aiAI9yzmnDOBWw.atlasv1.adqg6BDTc1p9sZLJYyOplz6bgwXSEf4KXhtRFXEl3dlU5L6YTG8J98LdJcuXvzpXyg4"
+aws_access_key_id     = "AKIA6MSH3VS64KCSTLHI"
+aws_secret_access_key = "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"
